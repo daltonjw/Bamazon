@@ -1,0 +1,30 @@
+{
+  "name": "bamazon-week-12-hw",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront in node utilizing a mySQL database",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daltonjw/Bamazon.git"
+  },
+  "keywords": [
+    "Bamazon",
+    "node",
+    "hw",
+    "week",
+    "12"
+  ],
+  "author": "James Dalton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daltonjw/Bamazon/issues"
+  },
+  "homepage": "https://github.com/daltonjw/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.0.1",
+    "mysql": "^2.13.0"
+  }
+}
