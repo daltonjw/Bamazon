@@ -1,3 +1,6 @@
+
+SELECT * FROM bamazon.products;
+
 -- Creates new rows containing data in all named columns --
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("razor", "home", 4.99, 11);
